@@ -7,3 +7,7 @@ This runs a simple web server on Windows that:
 
 To build for deploy   
 ```cargo build --release```
+
+## Devcontainer
+Using auto-generated dev container files from VSCode.
+Setup to allow remote docker execution
